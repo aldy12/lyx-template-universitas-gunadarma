@@ -1,0 +1,1 @@
+Template LyX ini adalah template untuk kebutuhan penulisan skripsi dan tesis, khususnya di Universitas Gunadarma.
